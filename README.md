@@ -87,7 +87,8 @@ Last Reminder Sent: formatDate(now; YYYY-MM-DD)
 📱 Screenshots & Demo
 <img width="1258" height="542" alt="image" src="https://github.com/user-attachments/assets/e848dd6e-24fb-4df9-af00-0794c5d421c8" />
 
-<img width="502" height="708" alt="image" src="https://github.com/user-attachments/assets/39b4e2e7-ead9-48ae-8a59-2af340f30ac4" />
+<img width="437" height="437" alt="image" src="https://github.com/user-attachments/assets/a4cfe9bb-3306-4580-b7f4-938b704a0ff9" />
+
 
 🔮 Roadmap & Future Enhancements (v2.0)
 [ ] Interactive Telegram Inline Buttons: Implement [ Easy ], [ Medium ], [ Hard ] inline keyboard buttons directly in Telegram messages.
