@@ -1,6 +1,3 @@
-# Spaced-Repitition-Study-Assistant
-> An automated, multi-platform study tracking system built with **Make.com**, **Google Sheets**, and **Telegram Bot API** leveraging the Ebbinghaus Forgetting Curve model.
-
 # 🧠 Spaced Repetition Autonomous Study Assistant (v1.0)
 
 > An automated, multi-platform study tracking system built with **Make.com**, **Google Sheets**, and **Telegram Bot API** leveraging the Ebbinghaus Forgetting Curve model.
